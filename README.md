@@ -10,7 +10,7 @@
 
 ### About
 
-It's my little redirect link to [matrix.to](https://matrix.to/#/@gameplayer:matrix.xaviama.dank-me.me).
+It's my little redirect link to [matrix.to](https://matrix.to/#/@gameplayer:catgirl.cloud).
 
 #### Purpose
 
@@ -23,9 +23,3 @@ Make invite link smaller to share.
 ##### Copyright
 
  - **Copyright 2023 Chimmie Firefly**
-
-Before *2026*:
-
- - **Copyright 2023 Jakub Graczykowski**
- - **Copyright 2023 GamePlayer**
-
